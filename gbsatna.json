@@ -1,0 +1,35 @@
+{
+    "data": [
+        {
+
+            "network": "admob",
+
+            "max_ban": "bc8c90ca781662b8",
+            "max_int": "41dd5fecde3e07e6",
+
+            "is_app_key": "16b0c294d",
+            "is_ban": "10528499",
+            "is_int": "10528497",
+
+            "admob_ban": "ca-app-pub-4124628059206023/1941264336",
+            "admob_int": "ca-app-pub-4124628059206023/5497365962",
+
+            "name": "Santa Claus",
+            "photo": "https://hichamhiya.github.io/santainsta/profile.jpg",
+            "voice": "https://hichamhiya.github.io/santainsta/audiosanta.mp3",
+            "video": "https://hichamhiya.github.io/santainsta/videosanta.mp4",
+            "stories": [
+                "https://hichamhiya.github.io/santainsta/story1.jpg",
+                "https://hichamhiya.github.io/santainsta/story2.jpg",
+                "https://hichamhiya.github.io/santainsta/story3.jpg"
+            ],
+            "wallpapers": [
+                "https://hichamhiya.github.io/santainsta/image1.jpg",
+                "https://hichamhiya.github.io/santainsta/image2.jpg",
+                "https://hichamhiya.github.io/santainsta/image3.jpg"
+                
+            ]
+
+        }
+    ]
+}
